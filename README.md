@@ -2,6 +2,7 @@
 # Location Mapping Application
 
 A simple, aesthetic web-based application that accepts latitude and longitude inputs and displays the corresponding geographic location on an interactive map.
+<img width="1353" height="905" alt="image" src="https://github.com/user-attachments/assets/656d87df-2e55-4536-804b-ccc649db7f27" />
 
 ## 🚀 Live Demo
 *(You can deploy this to GitHub Pages, Netlify, or Vercel)*
